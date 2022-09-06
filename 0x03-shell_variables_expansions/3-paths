@@ -1,2 +1,2 @@
 #!/bin/bash
-path=$PATH=/bin::::/home:/usr:::::/home/me
+export PATH=$PATH: /usr/ls/bin
