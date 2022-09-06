@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH=$PATH:/usr/ls/bin
+$PATH=/bin::::/home:/usr:::::/home/me
